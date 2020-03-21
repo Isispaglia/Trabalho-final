@@ -1,0 +1,10 @@
+sp	plot_1	plot_2	plot_3	plot_4	plot_5	total
+Agraulis_vanillae	4	1	10	1	4	20
+Dryas_iulia	0	1	0	0	0	1
+Heraclides_astyalus	0	0	0	1	1	2
+Heraclides_thoas	4	0	7	0	3	14
+Hylocharis_chrysura	4	0	10	2	0	16
+Trigona_sp.	0	1	0	0	0	1
+Halictidae	0	2	0	1	0	3
+Xylocopa_sp.	2	0	0	1	0	3
+Formicidae	0	1	2	0	0	3

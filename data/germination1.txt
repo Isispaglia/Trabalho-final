@@ -1,0 +1,11 @@
+trat	Values	Category
+Control	7	Germinated
+Self-manual	2	Germinated
+Self-spontaneous	5	Germinated
+Cross-pollination	2	Germinated
+Agamospermy	2	Germinated
+Control	4	Non-germinated
+Self-manual	3	Non-germinated
+Self-spontaneous	4	Non-germinated
+Cross-pollination	3	Non-germinated
+Agamospermy	5	Non-germinated
