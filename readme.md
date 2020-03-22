@@ -12,4 +12,4 @@ No R:
 3- Criei um README.md
 4- Criei um script.R reproduzível, onde construi um gráfico de barras para mostrar a germinação de sementes em diferentes tratamentos
 5- Inseri os gráficos na pasta figs
-3- Criei um relatório rmarkdown
+6- Criei um relatório rmarkdown
